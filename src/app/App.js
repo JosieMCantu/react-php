@@ -1,5 +1,6 @@
 import HomeContainer from '../containers/HomeContainer';
 import './App.css';
+//import myApp from 'myApp';
 
 function App() {
   return (
