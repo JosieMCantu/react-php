@@ -13,5 +13,5 @@ $response = curl_exec($curl);
 curl_close($curl);
 
 echo $response . PHP_EOL;
-return json_encode($response);
+return json_decode($response);
 ?>

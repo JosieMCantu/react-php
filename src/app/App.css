@@ -3,3 +3,6 @@ html, body {
   width: 100%;
   background-color: aliceblue;
 }
+div {
+  padding: 50px;
+}
